@@ -1,0 +1,16 @@
+.mainBox {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./folhaamassada.jpg);
+}
+
+.mainContainer {
+    width: 500px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 200px;
+    font-size: large;
+}
